@@ -1,0 +1,8 @@
+{
+  "name": "Lumora",
+  "description": "Premium video player with libass ASS/SSA subtitle rendering, liquid glass styling, and gesture controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
